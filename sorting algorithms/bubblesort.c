@@ -2,7 +2,7 @@
 int bubblesort(int,int[]);
 void main()
 {
-    int n,a[50],search,i,j;
+    int n,a[50],i;
     printf("Enter number of elements :");
     scanf("%d",&n);
     printf("Enter elements :\n");
